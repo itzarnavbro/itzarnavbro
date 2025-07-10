@@ -12,14 +12,6 @@
 - 🤝 Always open to **collaborating on open-source** or cool dev experiments
 - 📫 You can reach me at: **itzarnavbruh@gmail.com**
 
----
-
-## 📈 GitHub Analytics
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzarnavbro&layout=compact&theme=tokyonight)
-
----
-
 ## 🧰 Tech Stack
 
 ### 🌐 Frontend
