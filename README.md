@@ -16,10 +16,7 @@
 
 ## 📈 GitHub Analytics
 
-![Arnav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzarnavbro&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzarnavbro&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzarnavbro&theme=dark)
-![Profile views](https://komarev.com/ghpvc/?username=itzarnavbro&color=blueviolet)
 
 ---
 
