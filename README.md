@@ -1,23 +1,62 @@
-# Hey there! 👋 I'm Arnav Singh
+# 👋 Hey, I'm Arnav Singh
 
-> "Code like it's your superpower — because it kinda is."
+> Backend-heavy dev with full-stack flexibility. If it's code, I’m in.
+
+---
 
 ## 🚀 About Me
-- 👨‍💻 A curious coder who's down to build **literally anything** you throw at me (as long as it's code 😄)
-- 🌱 Currently diving deep into the **MERN stack** — MongoDB, Express, React, Node.js
-- 🛠️ Backend wizard-in-training, always down to debug dragons and optimize chaos
-- 🤝 Looking to collaborate on **open-source** and full-stack projects (with a backend twist)
-- 📫 You can summon me at: **itzarnavbruh@gmail.com**
+- 👨‍💻 I code just about anything you ask (seriously, try me)
+- 🌱 Currently mastering the **MERN Stack** (MongoDB, Express, React, Node.js)
+- 🎮 Built a Pokémon-style game in Unity with custom C# scripting
+- 🛠️ Passionate about **backend engineering**, APIs, servers, and DevOps
+- 🤝 Always open to **collaborating on open-source** or cool dev experiments
+- 📫 You can reach me at: **itzarnavbruh@gmail.com**
 
-## 🧩 Fun Facts
-- 🎮 Built a *Pokémon-style game* in Unity with custom C# scripting
-- ⚙️ I like servers, APIs, CLI tools, and anything that sounds like it belongs in a cyberpunk terminal
-- 🧠 Always experimenting with Rust, DevOps, and low-level black magic
+---
 
-## 📍 Find me plotting code on:
-- GitHub (obviously)
-- Stack Overflow (in the trenches)
-- Your console logs (👻)
+## 📈 GitHub Analytics
+
+![Arnav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzarnavbro&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzarnavbro&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzarnavbro&theme=dark)
+![Profile views](https://komarev.com/ghpvc/?username=itzarnavbro&color=blueviolet)
+
+---
+
+## 🧰 Tech Stack
+
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚙️ Backend
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+### 🗃️ Database & Hosting
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### ⚡ Tools & Other Skills
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+---
+
+## 🔍 Currently Exploring
+- ☁️ DevOps tools like Docker & CI/CD
+- 🦀 Rust for systems programming
+- 🧠 AI integrations into web apps
+
+---
+
+## 📫 Let's Connect!
+
+📧 Email: **itzarnavbruh@gmail.com**  
 
 ---
 
